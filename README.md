@@ -31,4 +31,29 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/<SEU-USUARIO>/adversarial-vlm.git
-cd adversarial-vlm
+cd adversarial-vlm```
+
+Crie o ambiente e instale dependências:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt```
+
+Execute o notebook no Jupyter ou Google Colab:
+```bash
+jupyter notebook Adversarially_Trained_VLM.ipynb```
+
+## 📖 Referências
+
+Zhang & Zhu (2019). Interpreting Adversarially Trained Convolutional Neural Networks
+
+Radford et al. (2021). Learning Transferable Visual Models from Natural Language Supervision
+
+Choi et al. (2024). Robust CLIP: Unsupervised Adversarial Fine-tuning of Vision Embeddings
+
+
+## 👤 Autor
+
+Ramon Ferreira Alencar Corrêa D’barssoles
+LinkedIn
+ • Email
