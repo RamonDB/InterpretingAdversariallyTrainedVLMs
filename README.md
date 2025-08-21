@@ -31,17 +31,20 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/<SEU-USUARIO>/adversarial-vlm.git
-cd adversarial-vlm```
+cd adversarial-vlm
+```
 
 Crie o ambiente e instale dependências:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 Execute o notebook no Jupyter ou Google Colab:
 ```bash
-jupyter notebook Adversarially_Trained_VLM.ipynb```
+jupyter notebook Adversarially_Trained_VLM.ipynb
+```
 
 ## 📖 Referências
 
