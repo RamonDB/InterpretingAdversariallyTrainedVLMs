@@ -58,5 +58,3 @@ Choi et al. (2024). Robust CLIP: Unsupervised Adversarial Fine-tuning of Vision 
 ## 👤 Autor
 
 Ramon Ferreira Alencar Corrêa D’barssoles
-LinkedIn
- • Email
